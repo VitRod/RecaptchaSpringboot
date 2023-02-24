@@ -14,4 +14,5 @@ public class SpringbootandGoogleRecaptchaApplication {
         SpringApplication.run(SpringbootandGoogleRecaptchaApplication.class, args);
         log.info("springboot and google re-captcha application started successfully.");
     }
+
 }
