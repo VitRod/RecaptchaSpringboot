@@ -1,0 +1,18 @@
+To obtain the google recaptcha api keys navigate to the below url
+
+https://www.google.com/recaptcha/admin#list
+
+Step1. register the new site by entering
+	a. label name
+	b. select the recaptcha type as "recaptcha v2" -> "I'm not a robot" checkbox
+	c. domain as "localhost"
+	d. click submit
+	
+once this is done the two api keys would be generated (i.e. site-key and secret-key)
+
+notes - 
+	a. site-key will be used at the client-side
+	b. secret-key will be used at the backend-code
+	
+	Public site key = "6LcbfGIkAAAAAHbVDyAcINmlve0pRqJD0H18nhI8"
+	Secret Key = "6LcbfGIkAAAAAJdRgIUXMT7qxlCqTEK9-etvICXJ"

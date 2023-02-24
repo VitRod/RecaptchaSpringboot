@@ -1,0 +1,21 @@
+
+.container-for-all { position:relative; }
+.video-background {
+    position:fixed;
+    z-index: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: auto;
+    object-fit: cover;
+}
+
+
+ .overlay {
+     position:absolute;
+     top:0;
+     left:0;
+     z-index:1;
+ }
+
+
