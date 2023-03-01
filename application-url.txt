@@ -1,18 +1,3 @@
 -- application browser url --
 http://localhost:9001/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
